@@ -85,6 +85,4 @@ python export_csv.py
 ---
 
 ## 👨‍💻 Author
-
-**Harsh Raj**  
-_Aspiring Cybersecurity student and Python Developer_
+<img src="https://github.com/user-attachments/assets/db3e588b-776c-4e75-a504-bef9e299ca72" alt="CTI Banner" width="400"/>
