@@ -26,15 +26,10 @@ A simple and effective Python-based QR Code Attendance System designed for educa
 ├── /qrcodes/             # Folder to store generated QR images
 ├── attendance.db         # SQLite3 database file
 └── output.csv            # Exported attendance data (generated)
-
-
+```
 🧰 Technologies Used
-Python 3.x
-
-OpenCV (cv2)
-
-qrcode library
-
-sqlite3
-
-csv
+- Python 3.x
+- OpenCV (cv2)
+- qrcode library
+- sqlite3
+- csv
